@@ -1,1 +1,3 @@
-# projects
+# project Biological profile estimatiion of chest Xray
+
+an automated system for estimating biological profiles, including sex classification and age estimation, from skeletal remains, leveraging CNNs on chest X-ray images. Address limitations of traditional forensic anthropology methods with an objective, cost-effective, and efficient approach to biological profile estimation. Improve efficiency and accuracy of forensic identification processes through automated, objective biological profile estimation. Broaden AI application in forensic anthropology beyond specific bone structures. Validate the proposed approach through rigorous testing and evaluation, contributing to forensic science advancements. Contribute innovative methods for biological profile estimation, aiding in skeletal remains identification.
